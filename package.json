@@ -1,0 +1,21 @@
+{
+  "name": "codedit-theme",
+  "displayName": "codedit-theme",
+  "description": "A Theme, I Coded It",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "You Coded It Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/You Coded It Dark-color-theme.json"
+      }
+    ]
+  }
+}
