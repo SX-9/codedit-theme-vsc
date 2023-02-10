@@ -14,8 +14,21 @@
       {
         "label": "You Coded It Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/You Coded It Dark-color-theme.json"
+        "path": "./theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SX-9/codedit-theme-vsc.git"
+  },
+  "keywords": [
+    "themes"
+  ],
+  "author": "sx9dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SX-9/codedit-theme-vsc/issues"
+  },
+  "homepage": "https://github.com/SX-9/codedit-theme-vsc#readme"
 }
